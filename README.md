@@ -10,3 +10,4 @@ Tomando un curso de Platzi, aprendo de elastic search
 - GET localhost:9200/usuarios/_mapping // un mapeo de los datos requiere mas explicacion
 
 - POST localhost:9200/usuarios/_update/rick // actualiza, se debe poner la actualizacion dentro de {"doc":{....}}
+- DELETE localhost:9200/usuarios_otro // delete sirve para borrar indices o documentos
